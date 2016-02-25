@@ -1,3 +1,4 @@
+@testable import HelloWorld
 import XCTest
 import Foundation
 
