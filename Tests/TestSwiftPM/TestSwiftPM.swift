@@ -1,7 +1,7 @@
 import XCTest
-import Foundation
+@testable import TestSwiftPM
 
-class Test: XCTestCase {
+class TestSwiftPM: XCTestCase {
     func testSetup() {
         XCTFail()
     }
